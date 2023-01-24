@@ -1,4 +1,4 @@
-class TypeConversionUtility {
+class TypeCastUtility {
   static int? stringToInt(String? v) {
     if (v == null) {
       return null;
