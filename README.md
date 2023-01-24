@@ -1,0 +1,1 @@
+A utility class for type casting different data types.
